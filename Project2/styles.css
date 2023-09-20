@@ -1,0 +1,16 @@
+.container
+{
+    text-align: center;
+    margin-top: 250px;
+}
+.btn
+{
+    display:flex;
+    gap: 10px;
+    justify-content: center;
+}
+#value
+{
+    font-weight: bold;
+    font-size: 100px;
+}
